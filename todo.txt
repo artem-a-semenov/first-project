@@ -1,3 +1,0 @@
-1. Git change
-2. Next line
-3. The last line!
